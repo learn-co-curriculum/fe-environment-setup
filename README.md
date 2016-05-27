@@ -12,7 +12,7 @@ Our computers are an essential tool of the trade. It is the sharpened sword of t
     <br />
     <img src="http://i.imgur.com/SXjjenh.gif" width="200px" />
     <br />
-2. Install [Firefox](https://www.mozilla.org/en-US/firefox/new/) (needed for screenshot tests)
+2. Open the Learn IDE and follow the instructions there for authenticating with Learn (you'll need to paste in your IDE token).
 3. There is no step 3.
 
 

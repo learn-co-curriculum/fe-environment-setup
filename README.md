@@ -3,7 +3,7 @@ Front-End Environment Setup
 
 ## Overview
 
-Our computers are an essential tool of the trade. It is the sharpened sword of the samurai, or the fine caligraphy brush of the painter. It is important that it is tuned for the tasks of a developer. In this lesson, we will get your computer set up with the necessary software and configuration. If you run into any issues setting up your environment, feel free to click the **Ask A Question button** and let us know how we can help. If you're looking for Windows instructions instead, you can skip to the next lesson.
+Our computers are an essential tool of the trade. It is important that it is tuned for the tasks of a developer. In this lesson, we will get your computer set up with the necessary software and configuration. If you run into any issues setting up your environment, feel free to click the **Ask A Question button** and let us know how we can help. If you're looking for Windows instructions instead, you can skip to the next lesson.
 
 ## Instructions
 

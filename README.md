@@ -8,7 +8,7 @@ Our computers are an essential tool of the trade. It is important that it is tun
 ## Instructions
 
 1. Download and install the [Learn IDE](https://learn.co/ide). Be sure to choose the right version for your operating system. (Learn'll guide you to the right version.)
-    The Learn IDE provides a text editor (where you'll write your code), and it connects you to a ready-to-go environment for running your code and tests! No need to fight arcane errors on your computer — we've slain those dragons for you.
+    The Learn IDE provides a text editor (where you'll write your code), and it connects you to a ready-to-go environment for running your code! No need to fight arcane errors on your computer — we've slain those dragons for you.
     <br />
     <img src="http://i.imgur.com/SXjjenh.gif" width="200px" />
     <br />
@@ -17,3 +17,5 @@ Our computers are an essential tool of the trade. It is important that it is tun
 
 
 You're all set!
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/fe-environment-setup'>Environment Setup</a> on Learn.co and start learning to code for free.</p>
